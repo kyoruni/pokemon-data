@@ -10953,150 +10953,150 @@
     "no": 731,
     "name": "ツツケラ",
     "types": ["ノーマル", "ひこう"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["するどいめ", "スキルリンク"],
+    "hidden_abilitys": ["ものひろい"],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 35,
+      "a": 75,
+      "b": 30,
+      "c": 30,
+      "d": 30,
+      "s": 65
     }
   },
     {
     "no": 732,
     "name": "ケララッパ",
     "types": ["ノーマル", "ひこう"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["するどいめ", "スキルリンク"],
+    "hidden_abilitys": ["ものひろい"],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 55,
+      "a": 85,
+      "b": 50,
+      "c": 40,
+      "d": 50,
+      "s": 75
     }
   },
     {
     "no": 733,
     "name": "ドデカバシ",
     "types": ["ノーマル", "ひこう"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["するどいめ", "スキルリンク"],
+    "hidden_abilitys": ["ちからずく"],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 80,
+      "a": 120,
+      "b": 75,
+      "c": 75,
+      "d": 75,
+      "s": 60
     }
   },
     {
     "no": 734,
     "name": "ヤングース",
     "types": ["ノーマル"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["はりこみ", "がんじょうあご"],
+    "hidden_abilitys": ["てきおうりょく"],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 48,
+      "a": 70,
+      "b": 30,
+      "c": 30,
+      "d": 30,
+      "s": 45
     }
   },
     {
     "no": 735,
     "name": "デカグース",
     "types": ["ノーマル"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["はりこみ", "がんじょうあご"],
+    "hidden_abilitys": ["てきおうりょく"],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 88,
+      "a": 110,
+      "b": 60,
+      "c": 55,
+      "d": 60,
+      "s": 45
     }
   },
     {
     "no": 736,
     "name": "アゴジムシ",
     "types": ["むし"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["むしのしらせ"],
+    "hidden_abilitys": [],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 47,
+      "a": 62,
+      "b": 45,
+      "c": 55,
+      "d": 45,
+      "s": 46
     }
   },
     {
     "no": 737,
     "name": "デンヂムシ",
     "types": ["むし", "でんき"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["バッテリー"],
+    "hidden_abilitys": [],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 57,
+      "a": 82,
+      "b": 95,
+      "c": 55,
+      "d": 75,
+      "s": 36
     }
   },
     {
     "no": 738,
     "name": "クワガノン",
     "types": ["むし", "でんき"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["ふゆう"],
+    "hidden_abilitys": [],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 77,
+      "a": 70,
+      "b": 90,
+      "c": 145,
+      "d": 75,
+      "s": 43
     }
   },
     {
     "no": 739,
     "name": "マケンカニ",
     "types": ["かくとう"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["かいりきバサミ", "てつのこぶし"],
+    "hidden_abilitys": ["いかりのつぼ"],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 47,
+      "a": 82,
+      "b": 57,
+      "c": 42,
+      "d": 47,
+      "s": 63
     }
   },
     {
     "no": 740,
     "name": "ケケンカニ",
     "types": ["かくとう", "こおり"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["かいりきバサミ", "てつのこぶし"],
+    "hidden_abilitys": ["いかりのつぼ"],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 97,
+      "a": 132,
+      "b": 77,
+      "c": 62,
+      "d": 67,
+      "s": 43
     }
   },
     {
