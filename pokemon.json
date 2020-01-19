@@ -1042,6 +1042,7 @@
   {
     "no": 54,
     "name": "コダック",
+    "form": "",
     "types": ["みず"],
     "abilities": ["しめりけ", "ノーてんき"],
     "hidden_abilities": ["すいすい"],
@@ -1057,6 +1058,7 @@
   {
     "no": 55,
     "name": "ゴルダック",
+    "form": "",
     "types": ["みず"],
     "abilities": ["しめりけ", "ノーてんき"],
     "hidden_abilities": ["すいすい"],
@@ -1072,6 +1074,7 @@
   {
     "no": 56,
     "name": "マンキー",
+    "form": "",
     "types": ["かくとう"],
     "abilities": ["やるき", "いかりのつぼ"],
     "hidden_abilities": ["まけんき"],
@@ -1087,6 +1090,7 @@
   {
     "no": 57,
     "name": "オコリザル",
+    "form": "",
     "types": ["かくとう"],
     "abilities": ["やるき", "いかりのつぼ"],
     "hidden_abilities": ["まけんき"],
@@ -1102,6 +1106,7 @@
   {
     "no": 58,
     "name": "ガーディ",
+    "form": "",
     "types": ["ほのお"],
     "abilities": ["いかく", "もらいび"],
     "hidden_abilities": ["せいぎのこころ"],
@@ -1117,6 +1122,7 @@
   {
     "no": 59,
     "name": "ウィンディ",
+    "form": "",
     "types": ["ほのお"],
     "abilities": ["いかく", "もらいび"],
     "hidden_abilities": ["せいぎのこころ"],
@@ -1132,6 +1138,7 @@
   {
     "no": 60,
     "name": "ニョロモ",
+    "form": "",
     "types": ["みず"],
     "abilities": ["ちょすい", "しめりけ"],
     "hidden_abilities": ["すいすい"],
@@ -1147,6 +1154,7 @@
   {
     "no": 61,
     "name": "ニョロゾ",
+    "form": "",
     "types": ["みず"],
     "abilities": ["ちょすい", "しめりけ"],
     "hidden_abilities": ["すいすい"],
@@ -1162,6 +1170,7 @@
   {
     "no": 62,
     "name": "ニョロボン",
+    "form": "",
     "types": ["みず", "かくとう"],
     "abilities": ["ちょすい", "しめりけ"],
     "hidden_abilities": ["すいすい"],
@@ -1177,6 +1186,7 @@
   {
     "no": 63,
     "name": "ケーシィ",
+    "form": "",
     "types": ["エスパー"],
     "abilities": ["シンクロ", "せいしんりょく"],
     "hidden_abilities": ["マジックガード"],
@@ -1192,6 +1202,7 @@
   {
     "no": 64,
     "name": "ユンゲラー",
+    "form": "",
     "types": ["エスパー"],
     "abilities": ["シンクロ", "せいしんりょく"],
     "hidden_abilities": ["マジックガード"],
@@ -1207,6 +1218,7 @@
   {
     "no": 65,
     "name": "フーディン",
+    "form": "",
     "types": ["エスパー"],
     "abilities": ["シンクロ", "せいしんりょく"],
     "hidden_abilities": ["マジックガード"],
@@ -1222,6 +1234,7 @@
   {
     "no": 66,
     "name": "ワンリキー",
+    "form": "",
     "types": ["かくとう"],
     "abilities": ["こんじょう", "ノーガード"],
     "hidden_abilities": ["ふくつのこころ"],
@@ -1237,6 +1250,7 @@
   {
     "no": 67,
     "name": "ゴーリキー",
+    "form": "",
     "types": ["かくとう"],
     "abilities": ["こんじょう", "ノーガード"],
     "hidden_abilities": ["ふくつのこころ"],
@@ -1252,6 +1266,7 @@
   {
     "no": 68,
     "name": "カイリキー",
+    "form": "",
     "types": ["かくとう"],
     "abilities": ["こんじょう", "ノーガード"],
     "hidden_abilities": ["ふくつのこころ"],
@@ -1267,6 +1282,7 @@
   {
     "no": 69,
     "name": "マダツボミ",
+    "form": "",
     "types": ["くさ", "どく"],
     "abilities": ["ようりょくそ"],
     "hidden_abilities": ["くいしんぼう"],
@@ -1282,6 +1298,7 @@
   {
     "no": 70,
     "name": "ウツドン",
+    "form": "",
     "types": ["くさ", "どく"],
     "abilities": ["ようりょくそ"],
     "hidden_abilities": ["くいしんぼう"],
@@ -1297,6 +1314,7 @@
   {
     "no": 71,
     "name": "ウツボット",
+    "form": "",
     "types": ["くさ", "どく"],
     "abilities": ["ようりょくそ"],
     "hidden_abilities": ["くいしんぼう"],
@@ -1312,6 +1330,7 @@
   {
     "no": 72,
     "name": "メノクラゲ",
+    "form": "",
     "types": ["みず", "どく"],
     "abilities": ["クリアボディ", "ヘドロえき"],
     "hidden_abilities": ["あめうけざら"],
@@ -1327,6 +1346,7 @@
   {
     "no": 73,
     "name": "ドククラゲ",
+    "form": "",
     "types": ["みず", "どく"],
     "abilities": ["クリアボディ", "ヘドロえき"],
     "hidden_abilities": ["あめうけざら"],
@@ -1342,9 +1362,26 @@
   {
     "no": 74,
     "name": "イシツブテ",
+    "form": "",
     "types": ["いわ", "じめん"],
     "abilities": ["いしあたま", "がんじょう"],
     "hidden_abilities": ["すながくれ"],
+    "status": {
+      "h": 40,
+      "a": 80,
+      "b": 100,
+      "c": 30,
+      "d": 30,
+      "s": 20
+    }
+  },
+  {
+    "no": 74,
+    "name": "イシツブテ",
+    "form": "アローラのすがた",
+    "types": ["いわ", "でんき"],
+    "abilities": ["じりょく", "がんじょう"],
+    "hidden_abilities": ["エレキスキン"],
     "status": {
       "h": 40,
       "a": 80,
