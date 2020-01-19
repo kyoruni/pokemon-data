@@ -10818,135 +10818,135 @@
     "no": 722,
     "name": "モクロー",
     "types": ["くさ", "ひこう"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["しんりょく"],
+    "hidden_abilitys": ["えんかく"],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 68,
+      "a": 55,
+      "b": 55,
+      "c": 50,
+      "d": 50,
+      "s": 42
     }
   },
   {
     "no": 723,
     "name": "フクスロー",
     "types": ["くさ", "ひこう"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["しんりょく"],
+    "hidden_abilitys": ["えんかく"],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 78,
+      "a": 75,
+      "b": 75,
+      "c": 70,
+      "d": 70,
+      "s": 52
     }
   },
   {
     "no": 724,
     "name": "ジュナイパー",
     "types": ["くさ", "ゴースト"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["しんりょく"],
+    "hidden_abilitys": ["えんかく"],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 78,
+      "a": 107,
+      "b": 75,
+      "c": 100,
+      "d": 100,
+      "s": 70
     }
   },
   {
     "no": 725,
     "name": "ニャビー",
     "types": ["ほのお"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["もうか"],
+    "hidden_abilitys": ["いかく"],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 45,
+      "a": 65,
+      "b": 40,
+      "c": 60,
+      "d": 40,
+      "s": 70
     }
   },
   {
     "no": 726,
     "name": "ニャヒート",
     "types": ["ほのお"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["もうか"],
+    "hidden_abilitys": ["いかく"],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 65,
+      "a": 85,
+      "b": 50,
+      "c": 80,
+      "d": 50,
+      "s": 90
     }
   },
   {
     "no": 727,
     "name": "ガオガエン",
     "types": ["ほのお", "あく"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["もうか"],
+    "hidden_abilitys": ["いかく"],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 95,
+      "a": 115,
+      "b": 90,
+      "c": 80,
+      "d": 90,
+      "s": 60
     }
   },
   {
     "no": 728,
     "name": "アシマリ",
     "types": ["みず"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["げきりゅう"],
+    "hidden_abilitys": ["うるおいボイス"],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 50,
+      "a": 54,
+      "b": 54,
+      "c": 66,
+      "d": 56,
+      "s": 40
     }
   },
   {
     "no": 729,
     "name": "オシャマリ",
     "types": ["みず"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["げきりゅう"],
+    "hidden_abilitys": ["うるおいボイス"],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 60,
+      "a": 69,
+      "b": 69,
+      "c": 91,
+      "d": 81,
+      "s": 50
     }
   },
   {
     "no": 730,
     "name": "アシレーヌ",
     "types": ["みず", "フェアリー"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["げきりゅう"],
+    "hidden_abilitys": ["うるおいボイス"],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 80,
+      "a": 74,
+      "b": 74,
+      "c": 126,
+      "d": 116,
+      "s": 60
     }
   },
   {
