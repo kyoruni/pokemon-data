@@ -11403,150 +11403,150 @@
     "no": 761,
     "name": "アマカジ",
     "types": ["くさ"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["リーフガード", "どんかん"],
+    "hidden_abilitys": ["スイートベール"],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 42,
+      "a": 30,
+      "b": 38,
+      "c": 30,
+      "d": 38,
+      "s": 32
     }
   },
   {
     "no": 762,
     "name": "アママイコ",
     "types": ["くさ"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["リーフガード", "どんかん"],
+    "hidden_abilitys": ["スイートベール"],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 52,
+      "a": 40,
+      "b": 48,
+      "c": 40,
+      "d": 48,
+      "s": 62
     }
   },
   {
     "no": 763,
     "name": "アマージョ",
     "types": ["くさ"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["リーフガード", "じょおうのいげん"],
+    "hidden_abilitys": ["スイートベール"],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 72,
+      "a": 120,
+      "b": 98,
+      "c": 50,
+      "d": 98,
+      "s": 72
     }
   },
   {
     "no": 764,
     "name": "キュワワー",
     "types": ["フェアリー"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["フラワーベース", "ヒーリングシフト"],
+    "hidden_abilitys": ["しぜんかいふく"],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 51,
+      "a": 52,
+      "b": 90,
+      "c": 82,
+      "d": 110,
+      "s": 100
     }
   },
   {
     "no": 765,
     "name": "ヤレユータン",
     "types": ["ノーマル", "エスパー"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["せいしんりょく", "テレパシー"],
+    "hidden_abilitys": ["きょうせい"],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 90,
+      "a": 60,
+      "b": 80,
+      "c": 90,
+      "d": 110,
+      "s": 60
     }
   },
   {
     "no": 766,
     "name": "ナゲツケサル",
     "types": ["かくとう"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["レシーバー"],
+    "hidden_abilitys": ["まけんき"],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 100,
+      "a": 120,
+      "b": 90,
+      "c": 40,
+      "d": 60,
+      "s": 80
     }
   },
   {
     "no": 767,
     "name": "コソクムシ",
     "types": ["むし", "みず"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["にげごし"],
+    "hidden_abilitys": [],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 25,
+      "a": 35,
+      "b": 40,
+      "c": 20,
+      "d": 30,
+      "s": 80
     }
   },
   {
     "no": 768,
     "name": "グソクムシャ",
     "types": ["むし", "みず"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["ききかいひ"],
+    "hidden_abilitys": [],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 75,
+      "a": 125,
+      "b": 140,
+      "c": 60,
+      "d": 90,
+      "s": 40
     }
   },
   {
     "no": 769,
     "name": "スナバァ",
     "types": ["ゴースト", "じめん"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["みずがため"],
+    "hidden_abilitys": ["すながくれ"],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 55,
+      "a": 55,
+      "b": 80,
+      "c": 70,
+      "d": 45,
+      "s": 15
     }
   },
   {
     "no": 770,
     "name": "シロデスナ",
     "types": ["ゴースト", "じめん"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["みずがため"],
+    "hidden_abilitys": ["すながくれ"],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 85,
+      "a": 75,
+      "b": 110,
+      "c": 100,
+      "d": 75,
+      "s": 35
     }
   },
   {
