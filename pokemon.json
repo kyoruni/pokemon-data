@@ -11103,150 +11103,150 @@
     "no": 741,
     "name": "オドリドリ",
     "types": ["ほのお", "ひこう"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["おどりこ"],
+    "hidden_abilitys": [],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 75,
+      "a": 70,
+      "b": 70,
+      "c": 98,
+      "d": 70,
+      "s": 93
     }
   },
     {
     "no": 742,
     "name": "アブリー",
     "types": ["むし", "フェアリー"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["みつあつめ", "りんぷん"],
+    "hidden_abilitys": ["スイートベール"],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 40,
+      "a": 45,
+      "b": 40,
+      "c": 55,
+      "d": 40,
+      "s": 84
     }
   },
     {
     "no": 743,
     "name": "アブリボン",
     "types": ["むし", "フェアリー"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["みつあつめ", "りんぷん"],
+    "hidden_abilitys": ["スイートベール"],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 60,
+      "a": 55,
+      "b": 60,
+      "c": 95,
+      "d": 70,
+      "s": 124
     }
   },
     {
     "no": 744,
     "name": "イワンコ",
     "types": ["いわ"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["するどいめ", "やるき", "マイペース"],
+    "hidden_abilitys": ["ふくつのこころ"],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 45,
+      "a": 65,
+      "b": 40,
+      "c": 30,
+      "d": 40,
+      "s": 60
     }
   },
     {
     "no": 745,
     "name": "ルガルガン",
     "types": ["いわ"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["するどいめ", "すなかき"],
+    "hidden_abilitys": ["ふくつのこころ"],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 75,
+      "a": 115,
+      "b": 65,
+      "c": 55,
+      "d": 65,
+      "s": 112
     }
   },
     {
     "no": 746,
     "name": "ヨワシ",
     "types": ["みず"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["ぎょぐん"],
+    "hidden_abilitys": [],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 45,
+      "a": 20,
+      "b": 20,
+      "c": 25,
+      "d": 25,
+      "s": 40
     }
   },
     {
     "no": 747,
     "name": "ヒドイデ",
     "types": ["どく", "みず"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["ひとでなし", "じゅうなん"],
+    "hidden_abilitys": ["さいせいりょく"],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 50,
+      "a": 53,
+      "b": 62,
+      "c": 43,
+      "d": 52,
+      "s": 45
     }
   },
   {
     "no": 748,
     "name": "ドヒドイデ",
     "types": ["どく", "みず"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["ひとでなし", "じゅうなん"],
+    "hidden_abilitys": ["さいせいりょく"],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 50,
+      "a": 63,
+      "b": 152,
+      "c": 53,
+      "d": 142,
+      "s": 35
     }
   },
   {
     "no": 749,
     "name": "ドロバンコ",
     "types": ["じめん"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["マイペース", "じきゅうりょく"],
+    "hidden_abilitys": ["せいしんりょく"],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 70,
+      "a": 100,
+      "b": 70,
+      "c": 45,
+      "d": 55,
+      "s": 45
     }
   },
   {
     "no": 750,
     "name": "バンバドロ",
     "types": ["じめん"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["マイペース", "じきゅうりょく"],
+    "hidden_abilitys": ["せいしんりょく"],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 100,
+      "a": 125,
+      "b": 100,
+      "c": 55,
+      "d": 85,
+      "s": 35
     }
   },
   {
