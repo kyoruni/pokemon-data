@@ -11853,150 +11853,150 @@
     "no": 791,
     "name": "ソルガレオ",
     "types": ["エスパー", "はがね"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["メタルプロテクト"],
+    "hidden_abilitys": [],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 137,
+      "a": 137,
+      "b": 107,
+      "c": 113,
+      "d": 89,
+      "s": 97
     }
   },
   {
     "no": 792,
     "name": "ルナアーラ",
     "types": ["エスパー", "ゴースト"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["ファントムガード"],
+    "hidden_abilitys": [],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 137,
+      "a": 113,
+      "b": 89,
+      "c": 137,
+      "d": 107,
+      "s": 97
     }
   },
   {
     "no": 793,
     "name": "ウツロイド",
     "types": ["いわ", "どく"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["ビーストブースト"],
+    "hidden_abilitys": [],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 109,
+      "a": 53,
+      "b": 47,
+      "c": 127,
+      "d": 131,
+      "s": 103
     }
   },
   {
     "no": 794,
     "name": "マッシブーン",
     "types": ["むし", "かくとう"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["ビーストブースト"],
+    "hidden_abilitys": [],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 107,
+      "a": 139,
+      "b": 139,
+      "c": 53,
+      "d": 53,
+      "s": 79
     }
   },
   {
     "no": 795,
     "name": "フェローチェ",
     "types": ["むし", "かくとう"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["ビーストブースト"],
+    "hidden_abilitys": [],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 71,
+      "a": 137,
+      "b": 37,
+      "c": 137,
+      "d": 37,
+      "s": 151
     }
   },
   {
     "no": 796,
     "name": "デンジュモク",
     "types": ["でんき"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["ビーストブースト"],
+    "hidden_abilitys": [],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 83,
+      "a": 89,
+      "b": 71,
+      "c": 173,
+      "d": 71,
+      "s": 83
     }
   },
   {
     "no": 797,
     "name": "テッカグヤ",
     "types": ["はがね", "ひこう"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["ビーストブースト"],
+    "hidden_abilitys": [],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 97,
+      "a": 101,
+      "b": 103,
+      "c": 107,
+      "d": 101,
+      "s": 61
     }
   },
   {
     "no": 798,
     "name": "カミツルギ",
     "types": ["くさ", "はがね"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["ビーストブースト"],
+    "hidden_abilitys": [],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 59,
+      "a": 181,
+      "b": 131,
+      "c": 59,
+      "d": 31,
+      "s": 109
     }
   },
   {
     "no": 799,
     "name": "アクジキング",
     "types": ["あく", "ドラゴン"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["ビーストブースト"],
+    "hidden_abilitys": [],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 223,
+      "a": 101,
+      "b": 53,
+      "c": 97,
+      "d": 53,
+      "s": 43
     }
   },
   {
     "no": 800,
     "name": "ネクロズマ",
     "types": ["エスパー"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["プリズムアーマー"],
+    "hidden_abilitys": [],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 97,
+      "a": 107,
+      "b": 101,
+      "c": 127,
+      "d": 89,
+      "s": 79
     }
   },
   {
