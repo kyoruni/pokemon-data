@@ -10814,4 +10814,1324 @@
       "s": 70
     }
   },
+  {
+    "no": 722,
+    "name": "モクロー",
+    "types": ["くさ", "ひこう"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 723,
+    "name": "フクスロー",
+    "types": ["くさ", "ひこう"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 724,
+    "name": "ジュナイパー",
+    "types": ["くさ", "ゴースト"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 725,
+    "name": "ニャビー",
+    "types": ["ほのお"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 726,
+    "name": "ニャヒート",
+    "types": ["ほのお"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 727,
+    "name": "ガオガエン",
+    "types": ["ほのお", "あく"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 728,
+    "name": "アシマリ",
+    "types": ["みず"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 729,
+    "name": "オシャマリ",
+    "types": ["みず"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 730,
+    "name": "アシレーヌ",
+    "types": ["みず", "フェアリー"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 731,
+    "name": "ツツケラ",
+    "types": ["ノーマル", "ひこう"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+    {
+    "no": 732,
+    "name": "ケララッパ",
+    "types": ["ノーマル", "ひこう"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+    {
+    "no": 733,
+    "name": "ドデカバシ",
+    "types": ["ノーマル", "ひこう"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+    {
+    "no": 734,
+    "name": "ヤングース",
+    "types": ["ノーマル"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+    {
+    "no": 735,
+    "name": "デカグース",
+    "types": ["ノーマル"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+    {
+    "no": 736,
+    "name": "アゴジムシ",
+    "types": ["むし"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+    {
+    "no": 737,
+    "name": "デンヂムシ",
+    "types": ["むし", "でんき"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+    {
+    "no": 738,
+    "name": "クワガノン",
+    "types": ["むし", "でんき"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+    {
+    "no": 739,
+    "name": "マケンカニ",
+    "types": ["かくとう"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+    {
+    "no": 740,
+    "name": "ケケンカニ",
+    "types": ["かくとう", "こおり"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+    {
+    "no": 741,
+    "name": "オドリドリ",
+    "types": ["ほのお", "ひこう"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+    {
+    "no": 742,
+    "name": "アブリー",
+    "types": ["むし", "フェアリー"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+    {
+    "no": 743,
+    "name": "アブリボン",
+    "types": ["むし", "フェアリー"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+    {
+    "no": 744,
+    "name": "イワンコ",
+    "types": ["いわ"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+    {
+    "no": 745,
+    "name": "ルガルガン",
+    "types": ["いわ"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+    {
+    "no": 746,
+    "name": "ヨワシ",
+    "types": ["みず"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+    {
+    "no": 747,
+    "name": "ヒドイデ",
+    "types": ["どく", "みず"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 748,
+    "name": "ドヒドイデ",
+    "types": ["どく", "みず"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 749,
+    "name": "ドロバンコ",
+    "types": ["じめん"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 750,
+    "name": "バンバドロ",
+    "types": ["じめん"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 751,
+    "name": "シズクモ",
+    "types": ["みず", "むし"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 752,
+    "name": "オニシズクモ",
+    "types": ["みず", "むし"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 753,
+    "name": "カリキリ",
+    "types": ["くさ"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 754,
+    "name": "ラランテス",
+    "types": ["くさ"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 755,
+    "name": "ネマシュ",
+    "types": ["くさ", "フェアリー"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 756,
+    "name": "マシェード",
+    "types": ["くさ", "フェアリー"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 757,
+    "name": "ヤトウモリ",
+    "types": ["どく", "ほのお"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 758,
+    "name": "エンニュート",
+    "types": ["どく", "ほのお"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 759,
+    "name": "ヌイコグマ",
+    "types": ["ノーマル", "かくとう"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 760,
+    "name": "キテルグマ",
+    "types": ["ノーマル", "かくとう"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 761,
+    "name": "アマカジ",
+    "types": ["くさ"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 762,
+    "name": "アママイコ",
+    "types": ["くさ"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 763,
+    "name": "アマージョ",
+    "types": ["くさ"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 764,
+    "name": "キュワワー",
+    "types": ["フェアリー"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 765,
+    "name": "ヤレユータン",
+    "types": ["ノーマル", "エスパー"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 766,
+    "name": "ナゲツケサル",
+    "types": ["かくとう"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 767,
+    "name": "コソクムシ",
+    "types": ["むし", "みず"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 768,
+    "name": "グソクムシャ",
+    "types": ["むし", "みず"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 769,
+    "name": "スナバァ",
+    "types": ["ゴースト", "じめん"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 770,
+    "name": "シロデスナ",
+    "types": ["ゴースト", "じめん"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 771,
+    "name": "ナマコブシ",
+    "types": ["みず"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 772,
+    "name": "タイプ：ヌル",
+    "types": ["ノーマル"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 773,
+    "name": "シルヴァディ",
+    "types": ["ノーマル"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 774,
+    "name": "メテノ",
+    "types": ["いわ", "ひこう"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 775,
+    "name": "ネッコアラ",
+    "types": ["ノーマル"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 776,
+    "name": "バクガメス",
+    "types": ["ほのお", "ドラゴン"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 777,
+    "name": "トゲデマル",
+    "types": ["でんき", "はがね"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 778,
+    "name": "ミミッキュ",
+    "types": ["ゴースト", "フェアリー"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 779,
+    "name": "ハギギシリ",
+    "types": ["みず", "エスパー"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 780,
+    "name": "ジジーロン",
+    "types": ["ノーマル", "ドラゴン"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 781,
+    "name": "ダダリン",
+    "types": ["ゴースト", "くさ"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 782,
+    "name": "ジャラコ",
+    "types": ["ドラゴン"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 783,
+    "name": "ジャランゴ",
+    "types": ["ドラゴン", "かくとう"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 784,
+    "name": "ジャラランガ",
+    "types": ["ドラゴン", "かくとう"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 785,
+    "name": "カプ・コケコ",
+    "types": ["でんき", "フェアリー"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 786,
+    "name": "カプ・テテフ",
+    "types": ["エスパー", "フェアリー"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 787,
+    "name": "カプ・ブルル",
+    "types": ["くさ", "フェアリー"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 788,
+    "name": "カプ・レヒレ",
+    "types": ["みず", "フェアリー"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 789,
+    "name": "コスモッグ",
+    "types": ["エスパー"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 790,
+    "name": "コスモウム",
+    "types": ["エスパー"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 791,
+    "name": "ソルガレオ",
+    "types": ["エスパー", "はがね"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 792,
+    "name": "ルナアーラ",
+    "types": ["エスパー", "ゴースト"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 793,
+    "name": "ウツロイド",
+    "types": ["いわ", "どく"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 794,
+    "name": "マッシブーン",
+    "types": ["むし", "かくとう"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 795,
+    "name": "フェローチェ",
+    "types": ["むし", "かくとう"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 796,
+    "name": "デンジュモク",
+    "types": ["でんき"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 797,
+    "name": "テッカグヤ",
+    "types": ["はがね", "ひこう"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 798,
+    "name": "カミツルギ",
+    "types": ["くさ", "はがね"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 799,
+    "name": "アクジキング",
+    "types": ["あく", "ドラゴン"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 800,
+    "name": "ネクロズマ",
+    "types": ["エスパー"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 801,
+    "name": "マギアナ",
+    "types": ["はがね", "フェアリー"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 802,
+    "name": "マーシャドー",
+    "types": ["かくとう", "ゴースト"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 803,
+    "name": "ベベノム",
+    "types": ["どく"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 804,
+    "name": "アーゴヨン",
+    "types": ["どく", "ドラゴン"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 805,
+    "name": "ツンデツンデ",
+    "types": ["いわ", "はがね"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 806,
+    "name": "ズガドーン",
+    "types": ["ほのお", "ゴースト"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 807,
+    "name": "ゼラオラ",
+    "types": ["でんき"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 808,
+    "name": "メルタン",
+    "types": ["はがね"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
+  {
+    "no": 809,
+    "name": "メルメタル",
+    "types": ["はがね"],
+    "abilitys": [""],
+    "hidden_abilitys": [""],
+    "status": {
+      "h": ,
+      "a": ,
+      "b": ,
+      "c": ,
+      "d": ,
+      "s": 
+    }
+  },
 ]
