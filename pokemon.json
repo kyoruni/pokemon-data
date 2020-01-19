@@ -8498,6 +8498,7 @@
   {
     "no": 488,
     "name": "クレセリア",
+    "form": "",
     "types": ["エスパー"],
     "abilities": ["ふゆう"],
     "hidden_abilities": [],
@@ -8513,6 +8514,7 @@
   {
     "no": 489,
     "name": "フィオネ",
+    "form": "",
     "types": ["みず"],
     "abilities": ["うるおいボディ"],
     "hidden_abilities": [],
@@ -8528,6 +8530,7 @@
   {
     "no": 490,
     "name": "マナフィ",
+    "form": "",
     "types": ["みず"],
     "abilities": ["うるおいボディ"],
     "hidden_abilities": [],
@@ -8543,6 +8546,7 @@
   {
     "no": 491,
     "name": "ダークライ",
+    "form": "",
     "types": ["あく"],
     "abilities": ["ナイトメア"],
     "hidden_abilities": [],
@@ -8557,7 +8561,8 @@
   },
   {
     "no": 492,
-    "name": "シェイミ(ランドフォルム)",
+    "name": "シェイミ",
+    "form": "ランドフォルム",
     "types": ["くさ"],
     "abilities": ["しぜんかいふく"],
     "hidden_abilities": [],
@@ -8568,6 +8573,22 @@
       "c": 100,
       "d": 100,
       "s": 100
+    }
+  },
+  {
+    "no": 492,
+    "name": "シェイミ",
+    "form": "スカイフォルム",
+    "types": ["くさ", "ひこう"],
+    "abilities": ["てんのめぐみ"],
+    "hidden_abilities": [],
+    "status": {
+      "h": 100,
+      "a": 103,
+      "b": 75,
+      "c": 120,
+      "d": 75,
+      "s": 127
     }
   },
   {
