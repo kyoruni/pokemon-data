@@ -11703,150 +11703,150 @@
     "no": 781,
     "name": "ダダリン",
     "types": ["ゴースト", "くさ"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["はがねつかい"],
+    "hidden_abilitys": [],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 70,
+      "a": 131,
+      "b": 100,
+      "c": 86,
+      "d": 90,
+      "s": 40
     }
   },
   {
     "no": 782,
     "name": "ジャラコ",
     "types": ["ドラゴン"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["ぼうだん", "ぼうおん"],
+    "hidden_abilitys": ["ぼうじん"],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 45,
+      "a": 55,
+      "b": 65,
+      "c": 45,
+      "d": 45,
+      "s": 45
     }
   },
   {
     "no": 783,
     "name": "ジャランゴ",
     "types": ["ドラゴン", "かくとう"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["ぼうだん", "ぼうおん"],
+    "hidden_abilitys": ["ぼうじん"],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 55,
+      "a": 75,
+      "b": 90,
+      "c": 65,
+      "d": 70,
+      "s": 65
     }
   },
   {
     "no": 784,
     "name": "ジャラランガ",
     "types": ["ドラゴン", "かくとう"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["ぼうだん", "ぼうおん"],
+    "hidden_abilitys": ["ぼうじん"],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 75,
+      "a": 110,
+      "b": 125,
+      "c": 100,
+      "d": 105,
+      "s": 85
     }
   },
   {
     "no": 785,
     "name": "カプ・コケコ",
     "types": ["でんき", "フェアリー"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["エレキメイカー"],
+    "hidden_abilitys": ["テレパシー"],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 70,
+      "a": 115,
+      "b": 85,
+      "c": 95,
+      "d": 75,
+      "s": 130
     }
   },
   {
     "no": 786,
     "name": "カプ・テテフ",
     "types": ["エスパー", "フェアリー"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["サイコメイカー"],
+    "hidden_abilitys": ["テレパシー"],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 70,
+      "a": 85,
+      "b": 75,
+      "c": 130,
+      "d": 115,
+      "s": 95
     }
   },
   {
     "no": 787,
     "name": "カプ・ブルル",
     "types": ["くさ", "フェアリー"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["グラスメイカー"],
+    "hidden_abilitys": ["テレパシー"],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 70,
+      "a": 130,
+      "b": 115,
+      "c": 85,
+      "d": 95,
+      "s": 75
     }
   },
   {
     "no": 788,
     "name": "カプ・レヒレ",
     "types": ["みず", "フェアリー"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["ミストメイカー"],
+    "hidden_abilitys": ["テレパシー"],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 70,
+      "a": 75,
+      "b": 115,
+      "c": 95,
+      "d": 130,
+      "s": 85
     }
   },
   {
     "no": 789,
     "name": "コスモッグ",
     "types": ["エスパー"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["てんねん"],
+    "hidden_abilitys": [],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 43,
+      "a": 29,
+      "b": 31,
+      "c": 29,
+      "d": 31,
+      "s": 37
     }
   },
   {
     "no": 790,
     "name": "コスモウム",
     "types": ["エスパー"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["がんじょう"],
+    "hidden_abilitys": [],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 43,
+      "a": 29,
+      "b": 131,
+      "c": 29,
+      "d": 131,
+      "s": 37
     }
   },
   {
