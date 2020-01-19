@@ -8354,6 +8354,7 @@
   {
     "no": 480,
     "name": "ユクシー",
+    "form": "",
     "types": ["エスパー"],
     "abilities": ["ふゆう"],
     "hidden_abilities": [],
@@ -8369,6 +8370,7 @@
   {
     "no": 481,
     "name": "エムリット",
+    "form": "",
     "types": ["エスパー"],
     "abilities": ["ふゆう"],
     "hidden_abilities": [],
@@ -8384,6 +8386,7 @@
   {
     "no": 482,
     "name": "アグノム",
+    "form": "",
     "types": ["エスパー"],
     "abilities": ["ふゆう"],
     "hidden_abilities": [],
@@ -8399,6 +8402,7 @@
   {
     "no": 483,
     "name": "ディアルガ",
+    "form": "",
     "types": ["はがね", "ドラゴン"],
     "abilities": ["プレッシャー"],
     "hidden_abilities": ["テレパシー"],
@@ -8414,6 +8418,7 @@
   {
     "no": 484,
     "name": "パルキア",
+    "form": "",
     "types": ["みず", "ドラゴン"],
     "abilities": ["プレッシャー"],
     "hidden_abilities": ["テレパシー"],
@@ -8429,6 +8434,7 @@
   {
     "no": 485,
     "name": "ヒードラン",
+    "form": "",
     "types": ["ほのお", "はがね"],
     "abilities": ["もらいび"],
     "hidden_abilities": ["ほのおのからだ"],
@@ -8444,6 +8450,7 @@
   {
     "no": 486,
     "name": "レジギガス",
+    "form": "",
     "types": ["ノーマル"],
     "abilities": ["スロースタート"],
     "hidden_abilities": [],
@@ -8459,6 +8466,7 @@
   {
     "no": 487,
     "name": "ギラティナ",
+    "form": "アナザーフォルム",
     "types": ["ゴースト", "ドラゴン"],
     "abilities": ["プレッシャー"],
     "hidden_abilities": ["テレパシー"],
@@ -8468,6 +8476,22 @@
       "b": 120,
       "c": 100,
       "d": 120,
+      "s": 90
+    }
+  },
+  {
+    "no": 487,
+    "name": "ギラティナ",
+    "form": "オリジンフォルム",
+    "types": ["ゴースト", "ドラゴン"],
+    "abilities": ["ふゆう"],
+    "hidden_abilities": [],
+    "status": {
+      "h": 150,
+      "a": 120,
+      "b": 100,
+      "c": 120,
+      "d": 100,
       "s": 90
     }
   },
