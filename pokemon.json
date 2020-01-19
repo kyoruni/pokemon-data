@@ -12003,135 +12003,135 @@
     "no": 801,
     "name": "マギアナ",
     "types": ["はがね", "フェアリー"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["ソウルハート"],
+    "hidden_abilitys": [],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 80,
+      "a": 95,
+      "b": 115,
+      "c": 130,
+      "d": 115,
+      "s": 65
     }
   },
   {
     "no": 802,
     "name": "マーシャドー",
     "types": ["かくとう", "ゴースト"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["テクニシャン"],
+    "hidden_abilitys": [],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 90,
+      "a": 125,
+      "b": 80,
+      "c": 90,
+      "d": 90,
+      "s": 125
     }
   },
   {
     "no": 803,
     "name": "ベベノム",
     "types": ["どく"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["ビーストブースト"],
+    "hidden_abilitys": [],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 67,
+      "a": 73,
+      "b": 67,
+      "c": 73,
+      "d": 67,
+      "s": 73
     }
   },
   {
     "no": 804,
     "name": "アーゴヨン",
     "types": ["どく", "ドラゴン"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["ビーストブースト"],
+    "hidden_abilitys": [],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 73,
+      "a": 73,
+      "b": 73,
+      "c": 127,
+      "d": 73,
+      "s": 121
     }
   },
   {
     "no": 805,
     "name": "ツンデツンデ",
     "types": ["いわ", "はがね"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["ビーストブースト"],
+    "hidden_abilitys": [],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 61,
+      "a": 131,
+      "b": 211,
+      "c": 53,
+      "d": 101,
+      "s": 13
     }
   },
   {
     "no": 806,
     "name": "ズガドーン",
     "types": ["ほのお", "ゴースト"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["ビーストブースト"],
+    "hidden_abilitys": [],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 53,
+      "a": 127,
+      "b": 53,
+      "c": 151,
+      "d": 79,
+      "s": 107
     }
   },
   {
     "no": 807,
     "name": "ゼラオラ",
     "types": ["でんき"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["ちくでん"],
+    "hidden_abilitys": [],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 88,
+      "a": 112,
+      "b": 75,
+      "c": 102,
+      "d": 80,
+      "s": 143
     }
   },
   {
     "no": 808,
     "name": "メルタン",
     "types": ["はがね"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["じりょく"],
+    "hidden_abilitys": [],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 46,
+      "a": 65,
+      "b": 65,
+      "c": 55,
+      "d": 35,
+      "s": 34
     }
   },
   {
     "no": 809,
     "name": "メルメタル",
     "types": ["はがね"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["てつのこぶし"],
+    "hidden_abilitys": [],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 135,
+      "a": 143,
+      "b": 143,
+      "c": 80,
+      "d": 65,
+      "s": 34
     }
   },
 ]
