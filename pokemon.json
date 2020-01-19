@@ -6114,6 +6114,7 @@
   {
     "no": 352,
     "name": "カクレオン",
+    "form": "",
     "types": ["ノーマル"],
     "abilities": ["へんしょく"],
     "hidden_abilities": ["へんげんじざい"],
@@ -6129,6 +6130,7 @@
   {
     "no": 353,
     "name": "カゲボウズ",
+    "form": "",
     "types": ["ゴースト"],
     "abilities": ["ふみん", "おみとおし"],
     "hidden_abilities": ["のろわれボディ"],
@@ -6144,6 +6146,7 @@
   {
     "no": 354,
     "name": "ジュペッタ",
+    "form": "",
     "types": ["ゴースト"],
     "abilities": ["ふみん", "おみとおし"],
     "hidden_abilities": ["のろわれボディ"],
@@ -6159,6 +6162,7 @@
   {
     "no": 355,
     "name": "ヨマワル",
+    "form": "",
     "types": ["ゴースト"],
     "abilities": ["ふゆう"],
     "hidden_abilities": ["おみとおし"],
@@ -6174,6 +6178,7 @@
   {
     "no": 356,
     "name": "サマヨール",
+    "form": "",
     "types": ["ゴースト"],
     "abilities": ["プレッシャー"],
     "hidden_abilities": ["おみとおし"],
@@ -6189,6 +6194,7 @@
   {
     "no": 357,
     "name": "トロピウス",
+    "form": "",
     "types": ["くさ", "ひこう"],
     "abilities": ["ようりょくそ", "サンパワー"],
     "hidden_abilities": ["しゅうかく"],
@@ -6204,6 +6210,7 @@
   {
     "no": 358,
     "name": "チリーン",
+    "form": "",
     "types": ["エスパー"],
     "abilities": ["ふゆう"],
     "hidden_abilities": [],
@@ -6219,6 +6226,7 @@
   {
     "no": 359,
     "name": "アブソル",
+    "form": "",
     "types": ["あく"],
     "abilities": ["プレッシャー", "きょううん"],
     "hidden_abilities": ["せいぎのこころ"],
@@ -6234,6 +6242,7 @@
   {
     "no": 360,
     "name": "ソーナノ",
+    "form": "",
     "types": ["エスパー"],
     "abilities": ["かげふみ"],
     "hidden_abilities": ["テレパシー"],
@@ -6249,6 +6258,7 @@
   {
     "no": 361,
     "name": "ユキワラシ",
+    "form": "",
     "types": ["こおり"],
     "abilities": ["せいしんりょく", "アイスボディ"],
     "hidden_abilities": ["ムラっけ"],
@@ -6264,6 +6274,7 @@
   {
     "no": 362,
     "name": "オニゴーリ",
+    "form": "",
     "types": ["こおり"],
     "abilities": ["せいしんりょく", "アイスボディ"],
     "hidden_abilities": ["ムラっけ"],
@@ -6279,6 +6290,7 @@
   {
     "no": 363,
     "name": "タマザラシ",
+    "form": "",
     "types": ["みず", "こおり"],
     "abilities": ["あついしぼう", "アイスボディ"],
     "hidden_abilities": ["どんかん"],
@@ -6294,6 +6306,7 @@
   {
     "no": 364,
     "name": "トドグラー",
+    "form": "",
     "types": ["みず", "こおり"],
     "abilities": ["あついしぼう", "アイスボディ"],
     "hidden_abilities": ["どんかん"],
@@ -6309,6 +6322,7 @@
   {
     "no": 365,
     "name": "トドゼルガ",
+    "form": "",
     "types": ["みず", "こおり"],
     "abilities": ["あついしぼう", "アイスボディ"],
     "hidden_abilities": ["どんかん"],
@@ -6324,6 +6338,7 @@
   {
     "no": 366,
     "name": "パールル",
+    "form": "",
     "types": ["みず"],
     "abilities": ["シェルアーマー"],
     "hidden_abilities": ["びびり"],
@@ -6339,6 +6354,7 @@
   {
     "no": 367,
     "name": "ハンテール",
+    "form": "",
     "types": ["みず"],
     "abilities": ["すいすい"],
     "hidden_abilities": ["みずのベール"],
@@ -6354,6 +6370,7 @@
   {
     "no": 368,
     "name": "サクラビス",
+    "form": "",
     "types": ["みず"],
     "abilities": ["すいすい"],
     "hidden_abilities": ["うるおいボディ"],
@@ -6369,6 +6386,7 @@
   {
     "no": 369,
     "name": "ジーランス",
+    "form": "",
     "types": ["みず", "いわ"],
     "abilities": ["すいすい", "いしあたま"],
     "hidden_abilities": ["がんじょう"],
@@ -6384,6 +6402,7 @@
   {
     "no": 370,
     "name": "ラブカス",
+    "form": "",
     "types": ["みず"],
     "abilities": ["すいすい"],
     "hidden_abilities": ["うるおいボディ"],
@@ -6399,6 +6418,7 @@
   {
     "no": 371,
     "name": "タツベイ",
+    "form": "",
     "types": ["ドラゴン"],
     "abilities": ["いしあたま"],
     "hidden_abilities": ["ちからずく"],
@@ -6414,6 +6434,7 @@
   {
     "no": 372,
     "name": "コモルー",
+    "form": "",
     "types": ["ドラゴン"],
     "abilities": ["いしあたま"],
     "hidden_abilities": ["ぼうじん"],
@@ -6429,6 +6450,7 @@
   {
     "no": 373,
     "name": "ボーマンダ",
+    "form": "",
     "types": ["ドラゴン", "ひこう"],
     "abilities": ["いかく"],
     "hidden_abilities": ["じしんかじょう"],
@@ -6444,6 +6466,7 @@
   {
     "no": 374,
     "name": "ダンバル",
+    "form": "",
     "types": ["はがね", "エスパー"],
     "abilities": ["クリアボディ"],
     "hidden_abilities": ["ライトメタル"],
@@ -6459,6 +6482,7 @@
   {
     "no": 375,
     "name": "メタング",
+    "form": "",
     "types": ["はがね", "エスパー"],
     "abilities": ["クリアボディ"],
     "hidden_abilities": ["ライトメタル"],
@@ -6474,6 +6498,7 @@
   {
     "no": 376,
     "name": "メタグロス",
+    "form": "",
     "types": ["はがね", "エスパー"],
     "abilities": ["クリアボディ"],
     "hidden_abilities": ["ライトメタル"],
@@ -6489,6 +6514,7 @@
   {
     "no": 377,
     "name": "レジロック",
+    "form": "",
     "types": ["いわ"],
     "abilities": ["クリアボディ"],
     "hidden_abilities": ["がんじょう"],
@@ -6504,6 +6530,7 @@
   {
     "no": 378,
     "name": "レジアイス",
+    "form": "",
     "types": ["こおり"],
     "abilities": ["クリアボディ"],
     "hidden_abilities": ["アイスボディ"],
@@ -6519,6 +6546,7 @@
   {
     "no": 379,
     "name": "レジスチル",
+    "form": "",
     "types": ["はがね"],
     "abilities": ["クリアボディ"],
     "hidden_abilities": ["ライトメタル"],
@@ -6534,6 +6562,7 @@
   {
     "no": 380,
     "name": "ラティアス",
+    "form": "",
     "types": ["ドラゴン", "エスパー"],
     "abilities": ["ふゆう"],
     "hidden_abilities": [],
@@ -6549,6 +6578,7 @@
   {
     "no": 381,
     "name": "ラティオス",
+    "form": "",
     "types": ["ドラゴン", "エスパー"],
     "abilities": ["ふゆう"],
     "hidden_abilities": [],
@@ -6564,6 +6594,7 @@
   {
     "no": 382,
     "name": "カイオーガ",
+    "form": "",
     "types": ["みず"],
     "abilities": ["あめふらし"],
     "hidden_abilities": [],
@@ -6577,8 +6608,25 @@
     }
   },
   {
+    "no": 382,
+    "name": "ゲンシカイオーガ",
+    "form": "",
+    "types": ["みず"],
+    "abilities": ["はじまりのうみ"],
+    "hidden_abilities": [],
+    "status": {
+      "h": 100,
+      "a": 150,
+      "b": 90,
+      "c": 180,
+      "d": 160,
+      "s": 90
+    }
+  },
+  {
     "no": 383,
     "name": "グラードン",
+    "form": "",
     "types": ["じめん"],
     "abilities": ["ひでり"],
     "hidden_abilities": [],
@@ -6587,6 +6635,22 @@
       "a": 150,
       "b": 140,
       "c": 100,
+      "d": 90,
+      "s": 90
+    }
+  },
+  {
+    "no": 383,
+    "name": "ゲンシグラードン",
+    "form": "",
+    "types": ["じめん", "ほのお"],
+    "abilities": ["おわりのだいち"],
+    "hidden_abilities": [],
+    "status": {
+      "h": 100,
+      "a": 180,
+      "b": 160,
+      "c": 150,
       "d": 90,
       "s": 90
     }
