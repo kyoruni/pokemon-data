@@ -11553,150 +11553,150 @@
     "no": 771,
     "name": "ナマコブシ",
     "types": ["みず"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["とびだすなかみ"],
+    "hidden_abilitys": ["てんねん"],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 55,
+      "a": 60,
+      "b": 130,
+      "c": 30,
+      "d": 130,
+      "s": 5
     }
   },
   {
     "no": 772,
     "name": "タイプ：ヌル",
     "types": ["ノーマル"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["カブトアーマー"],
+    "hidden_abilitys": [],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 95,
+      "a": 95,
+      "b": 95,
+      "c": 95,
+      "d": 95,
+      "s": 59
     }
   },
   {
     "no": 773,
     "name": "シルヴァディ",
     "types": ["ノーマル"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["ARシステム"],
+    "hidden_abilitys": [],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 95,
+      "a": 95,
+      "b": 95,
+      "c": 95,
+      "d": 95,
+      "s": 95
     }
   },
   {
     "no": 774,
     "name": "メテノ",
     "types": ["いわ", "ひこう"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["リミットシールド"],
+    "hidden_abilitys": [],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 60,
+      "a": 60,
+      "b": 100,
+      "c": 60,
+      "d": 100,
+      "s": 60
     }
   },
   {
     "no": 775,
     "name": "ネッコアラ",
     "types": ["ノーマル"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["ぜったいねむり"],
+    "hidden_abilitys": [],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 65,
+      "a": 115,
+      "b": 65,
+      "c": 75,
+      "d": 95,
+      "s": 65
     }
   },
   {
     "no": 776,
     "name": "バクガメス",
     "types": ["ほのお", "ドラゴン"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["シェルアーマー"],
+    "hidden_abilitys": [],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 60,
+      "a": 78,
+      "b": 135,
+      "c": 91,
+      "d": 85,
+      "s": 36
     }
   },
   {
     "no": 777,
     "name": "トゲデマル",
     "types": ["でんき", "はがね"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["てつのトゲ", "ひらいしん"],
+    "hidden_abilitys": ["がんじょう"],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 65,
+      "a": 98,
+      "b": 63,
+      "c": 40,
+      "d": 73,
+      "s": 96
     }
   },
   {
     "no": 778,
     "name": "ミミッキュ",
     "types": ["ゴースト", "フェアリー"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["ばけのかわ"],
+    "hidden_abilitys": [],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 55,
+      "a": 90,
+      "b": 80,
+      "c": 50,
+      "d": 105,
+      "s": 96
     }
   },
   {
     "no": 779,
     "name": "ハギギシリ",
     "types": ["みず", "エスパー"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["ビビットボディ", "がんじょうあご"],
+    "hidden_abilitys": ["ミラクルスキン"],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 68,
+      "a": 105,
+      "b": 70,
+      "c": 70,
+      "d": 70,
+      "s": 92
     }
   },
   {
     "no": 780,
     "name": "ジジーロン",
     "types": ["ノーマル", "ドラゴン"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["ぎゃくじょう", "そうしょく"],
+    "hidden_abilitys": ["ノーてんき"],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 78,
+      "a": 60,
+      "b": 85,
+      "c": 135,
+      "d": 91,
+      "s": 36
     }
   },
   {
