@@ -11253,150 +11253,150 @@
     "no": 751,
     "name": "シズクモ",
     "types": ["みず", "むし"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["すいほう"],
+    "hidden_abilitys": ["ちょすい"],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 38,
+      "a": 40,
+      "b": 52,
+      "c": 40,
+      "d": 72,
+      "s": 27
     }
   },
   {
     "no": 752,
     "name": "オニシズクモ",
     "types": ["みず", "むし"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["すいほう"],
+    "hidden_abilitys": ["ちょすい"],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 68,
+      "a": 70,
+      "b": 92,
+      "c": 50,
+      "d": 132,
+      "s": 42
     }
   },
   {
     "no": 753,
     "name": "カリキリ",
     "types": ["くさ"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["リーフガード"],
+    "hidden_abilitys": ["あまのじゃく"],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 40,
+      "a": 55,
+      "b": 35,
+      "c": 50,
+      "d": 35,
+      "s": 35
     }
   },
   {
     "no": 754,
     "name": "ラランテス",
     "types": ["くさ"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["リーフガード"],
+    "hidden_abilitys": ["あまのじゃく"],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 70,
+      "a": 105,
+      "b": 90,
+      "c": 80,
+      "d": 90,
+      "s": 45
     }
   },
   {
     "no": 755,
     "name": "ネマシュ",
     "types": ["くさ", "フェアリー"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["はっこう", "ほうし"],
+    "hidden_abilitys": ["あめうけざら"],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 40,
+      "a": 35,
+      "b": 55,
+      "c": 65,
+      "d": 75,
+      "s": 15
     }
   },
   {
     "no": 756,
     "name": "マシェード",
     "types": ["くさ", "フェアリー"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["はっこう", "ほうし"],
+    "hidden_abilitys": ["あめうけざら"],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 60,
+      "a": 45,
+      "b": 80,
+      "c": 90,
+      "d": 100,
+      "s": 30
     }
   },
   {
     "no": 757,
     "name": "ヤトウモリ",
     "types": ["どく", "ほのお"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["ふしょく"],
+    "hidden_abilitys": ["どんかん"],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 48,
+      "a": 44,
+      "b": 40,
+      "c": 71,
+      "d": 40,
+      "s": 77
     }
   },
   {
     "no": 758,
     "name": "エンニュート",
     "types": ["どく", "ほのお"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["ふしょく"],
+    "hidden_abilitys": ["どんかん"],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 68,
+      "a": 64,
+      "b": 60,
+      "c": 111,
+      "d": 60,
+      "s": 117
     }
   },
   {
     "no": 759,
     "name": "ヌイコグマ",
     "types": ["ノーマル", "かくとう"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["もふもふ", "ぶきよう"],
+    "hidden_abilitys": ["メロメロボディ"],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 70,
+      "a": 75,
+      "b": 50,
+      "c": 45,
+      "d": 50,
+      "s": 50
     }
   },
   {
     "no": 760,
     "name": "キテルグマ",
     "types": ["ノーマル", "かくとう"],
-    "abilitys": [""],
-    "hidden_abilitys": [""],
+    "abilitys": ["もふもふ", "ぶきよう"],
+    "hidden_abilitys": ["きんちょうかん"],
     "status": {
-      "h": ,
-      "a": ,
-      "b": ,
-      "c": ,
-      "d": ,
-      "s": 
+      "h": 120,
+      "a": 125,
+      "b": 80,
+      "c": 55,
+      "d": 60,
+      "s": 60
     }
   },
   {
