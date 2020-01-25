@@ -12514,6 +12514,7 @@
   {
     "no": 721,
     "name": "ボルケニオン",
+    "form": "",
     "types": ["ほのお", "みず"],
     "abilities": ["ちょすい"],
     "hidden_abilities": [],
@@ -12529,6 +12530,7 @@
   {
     "no": 722,
     "name": "モクロー",
+    "form": "",
     "types": ["くさ", "ひこう"],
     "abilities": ["しんりょく"],
     "hidden_abilities": ["えんかく"],
@@ -12544,6 +12546,7 @@
   {
     "no": 723,
     "name": "フクスロー",
+    "form": "",
     "types": ["くさ", "ひこう"],
     "abilities": ["しんりょく"],
     "hidden_abilities": ["えんかく"],
@@ -12559,6 +12562,7 @@
   {
     "no": 724,
     "name": "ジュナイパー",
+    "form": "",
     "types": ["くさ", "ゴースト"],
     "abilities": ["しんりょく"],
     "hidden_abilities": ["えんかく"],
@@ -12574,6 +12578,7 @@
   {
     "no": 725,
     "name": "ニャビー",
+    "form": "",
     "types": ["ほのお"],
     "abilities": ["もうか"],
     "hidden_abilities": ["いかく"],
@@ -12589,6 +12594,7 @@
   {
     "no": 726,
     "name": "ニャヒート",
+    "form": "",
     "types": ["ほのお"],
     "abilities": ["もうか"],
     "hidden_abilities": ["いかく"],
@@ -12604,6 +12610,7 @@
   {
     "no": 727,
     "name": "ガオガエン",
+    "form": "",
     "types": ["ほのお", "あく"],
     "abilities": ["もうか"],
     "hidden_abilities": ["いかく"],
@@ -12619,6 +12626,7 @@
   {
     "no": 728,
     "name": "アシマリ",
+    "form": "",
     "types": ["みず"],
     "abilities": ["げきりゅう"],
     "hidden_abilities": ["うるおいボイス"],
@@ -12634,6 +12642,7 @@
   {
     "no": 729,
     "name": "オシャマリ",
+    "form": "",
     "types": ["みず"],
     "abilities": ["げきりゅう"],
     "hidden_abilities": ["うるおいボイス"],
@@ -12649,6 +12658,7 @@
   {
     "no": 730,
     "name": "アシレーヌ",
+    "form": "",
     "types": ["みず", "フェアリー"],
     "abilities": ["げきりゅう"],
     "hidden_abilities": ["うるおいボイス"],
@@ -12664,6 +12674,7 @@
   {
     "no": 731,
     "name": "ツツケラ",
+    "form": "",
     "types": ["ノーマル", "ひこう"],
     "abilities": ["するどいめ", "スキルリンク"],
     "hidden_abilities": ["ものひろい"],
@@ -12679,6 +12690,7 @@
     {
     "no": 732,
     "name": "ケララッパ",
+    "form": "",
     "types": ["ノーマル", "ひこう"],
     "abilities": ["するどいめ", "スキルリンク"],
     "hidden_abilities": ["ものひろい"],
@@ -12694,6 +12706,7 @@
     {
     "no": 733,
     "name": "ドデカバシ",
+    "form": "",
     "types": ["ノーマル", "ひこう"],
     "abilities": ["するどいめ", "スキルリンク"],
     "hidden_abilities": ["ちからずく"],
@@ -12709,6 +12722,7 @@
     {
     "no": 734,
     "name": "ヤングース",
+    "form": "",
     "types": ["ノーマル"],
     "abilities": ["はりこみ", "がんじょうあご"],
     "hidden_abilities": ["てきおうりょく"],
@@ -12724,6 +12738,7 @@
     {
     "no": 735,
     "name": "デカグース",
+    "form": "",
     "types": ["ノーマル"],
     "abilities": ["はりこみ", "がんじょうあご"],
     "hidden_abilities": ["てきおうりょく"],
@@ -12739,6 +12754,7 @@
     {
     "no": 736,
     "name": "アゴジムシ",
+    "form": "",
     "types": ["むし"],
     "abilities": ["むしのしらせ"],
     "hidden_abilities": [],
@@ -12754,6 +12770,7 @@
     {
     "no": 737,
     "name": "デンヂムシ",
+    "form": "",
     "types": ["むし", "でんき"],
     "abilities": ["バッテリー"],
     "hidden_abilities": [],
@@ -12769,6 +12786,7 @@
     {
     "no": 738,
     "name": "クワガノン",
+    "form": "",
     "types": ["むし", "でんき"],
     "abilities": ["ふゆう"],
     "hidden_abilities": [],
@@ -12784,6 +12802,7 @@
     {
     "no": 739,
     "name": "マケンカニ",
+    "form": "",
     "types": ["かくとう"],
     "abilities": ["かいりきバサミ", "てつのこぶし"],
     "hidden_abilities": ["いかりのつぼ"],
@@ -12799,6 +12818,7 @@
     {
     "no": 740,
     "name": "ケケンカニ",
+    "form": "",
     "types": ["かくとう", "こおり"],
     "abilities": ["かいりきバサミ", "てつのこぶし"],
     "hidden_abilities": ["いかりのつぼ"],
@@ -12811,10 +12831,59 @@
       "s": 43
     }
   },
-    {
+  {
     "no": 741,
     "name": "オドリドリ",
+    "form": "めらめらスタイル",
     "types": ["ほのお", "ひこう"],
+    "abilities": ["おどりこ"],
+    "hidden_abilities": [],
+    "status": {
+      "h": 75,
+      "a": 70,
+      "b": 70,
+      "c": 98,
+      "d": 70,
+      "s": 93
+    }
+  },
+  {
+    "no": 741,
+    "name": "オドリドリ",
+    "form": "ぱちぱちスタイル",
+    "types": ["でんき", "ひこう"],
+    "abilities": ["おどりこ"],
+    "hidden_abilities": [],
+    "status": {
+      "h": 75,
+      "a": 70,
+      "b": 70,
+      "c": 98,
+      "d": 70,
+      "s": 93
+    }
+  },
+  {
+    "no": 741,
+    "name": "オドリドリ",
+    "form": "ふらふらスタイル",
+    "types": ["エスパー", "ひこう"],
+    "abilities": ["おどりこ"],
+    "hidden_abilities": [],
+    "status": {
+      "h": 75,
+      "a": 70,
+      "b": 70,
+      "c": 98,
+      "d": 70,
+      "s": 93
+    }
+  },
+  {
+    "no": 741,
+    "name": "オドリドリ",
+    "form": "まいまいスタイル",
+    "types": ["ゴースト", "ひこう"],
     "abilities": ["おどりこ"],
     "hidden_abilities": [],
     "status": {
