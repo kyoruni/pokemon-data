@@ -11202,6 +11202,7 @@
   {
     "no": 649,
     "name": "ゲノセクト",
+    "form": "",
     "types": ["むし", "はがね"],
     "abilities": ["ダウンロード"],
     "hidden_abilities": [],
@@ -11217,6 +11218,7 @@
   {
     "no": 650,
     "name": "ハリマロン",
+    "form": "",
     "types": ["くさ"],
     "abilities": ["しんりょく"],
     "hidden_abilities": ["ぼうだん"],
@@ -11232,6 +11234,7 @@
   {
     "no": 651,
     "name": "ハリボーグ",
+    "form": "",
     "types": ["くさ"],
     "abilities": ["しんりょく"],
     "hidden_abilities": ["ぼうだん"],
@@ -11247,6 +11250,7 @@
   {
     "no": 652,
     "name": "ブリガロン",
+    "form": "",
     "types": ["くさ", "かくとう"],
     "abilities": ["しんりょく"],
     "hidden_abilities": ["ぼうだん"],
@@ -11262,6 +11266,7 @@
   {
     "no": 653,
     "name": "フォッコ",
+    "form": "",
     "types": ["ほのお"],
     "abilities": ["もうか"],
     "hidden_abilities": ["マジシャン"],
@@ -11277,6 +11282,7 @@
   {
     "no": 654,
     "name": "テールナー",
+    "form": "",
     "types": ["ほのお"],
     "abilities": ["もうか"],
     "hidden_abilities": ["マジシャン"],
@@ -11292,6 +11298,7 @@
   {
     "no": 655,
     "name": "マフォクシー",
+    "form": "",
     "types": ["ほのお", "エスパー"],
     "abilities": ["もうか"],
     "hidden_abilities": ["マジシャン"],
@@ -11307,6 +11314,7 @@
   {
     "no": 656,
     "name": "ケロマツ",
+    "form": "",
     "types": ["みず"],
     "abilities": ["げきりゅう"],
     "hidden_abilities": ["へんげんじざい"],
@@ -11322,6 +11330,7 @@
   {
     "no": 657,
     "name": "ゲコガシラ",
+    "form": "",
     "types": ["みず"],
     "abilities": ["げきりゅう"],
     "hidden_abilities": ["へんげんじざい"],
@@ -11337,6 +11346,7 @@
   {
     "no": 658,
     "name": "ゲッコウガ",
+    "form": "",
     "types": ["みず", "あく"],
     "abilities": ["げきりゅう"],
     "hidden_abilities": ["へんげんじざい"],
@@ -11352,6 +11362,7 @@
   {
     "no": 659,
     "name": "ホルビー",
+    "form": "",
     "types": ["ノーマル"],
     "abilities": ["ものひろい", "ほおぶくろ"],
     "hidden_abilities": ["ちからもち"],
@@ -11367,6 +11378,7 @@
   {
     "no": 660,
     "name": "ホルード",
+    "form": "",
     "types": ["ノーマル", "じめん"],
     "abilities": ["ものひろい", "ほおぶくろ"],
     "hidden_abilities": ["ちからもち"],
@@ -11382,6 +11394,7 @@
   {
     "no": 661,
     "name": "ヤヤコマ",
+    "form": "",
     "types": ["ノーマル", "ひこう"],
     "abilities": ["はとむね"],
     "hidden_abilities": ["はやてのつばさ"],
@@ -11397,6 +11410,7 @@
   {
     "no": 662,
     "name": "ヒノヤコマ",
+    "form": "",
     "types": ["ほのお", "ひこう"],
     "abilities": ["ほのおのからだ"],
     "hidden_abilities": ["はやてのつばさ"],
@@ -11412,6 +11426,7 @@
   {
     "no": 663,
     "name": "ファイアロー",
+    "form": "",
     "types": ["ほのお", "ひこう"],
     "abilities": ["ほのおのからだ"],
     "hidden_abilities": ["はやてのつばさ"],
@@ -11427,6 +11442,7 @@
   {
     "no": 664,
     "name": "コフキムシ",
+    "form": "",
     "types": ["むし"],
     "abilities": ["りんぷん", "ふくがん"],
     "hidden_abilities": ["フレンドガード"],
@@ -11442,6 +11458,7 @@
   {
     "no": 665,
     "name": "コフーライ",
+    "form": "",
     "types": ["むし"],
     "abilities": ["だっぴ"],
     "hidden_abilities": ["フレンドガード"],
@@ -11457,6 +11474,7 @@
   {
     "no": 666,
     "name": "ビビヨン",
+    "form": "",
     "types": ["むし", "ひこう"],
     "abilities": ["りんぷん", "ふくがん"],
     "hidden_abilities": ["フレンドガード"],
@@ -11472,6 +11490,7 @@
   {
     "no": 667,
     "name": "シシコ",
+    "form": "",
     "types": ["ほのお", "ノーマル"],
     "abilities": ["とうそうしん", "きんちょうかん"],
     "hidden_abilities": ["じしんかじょう"],
@@ -11487,6 +11506,7 @@
   {
     "no": 668,
     "name": "カエンジシ",
+    "form": "",
     "types": ["ほのお", "ノーマル"],
     "abilities": ["とうそうしん", "きんちょうかん"],
     "hidden_abilities": ["じしんかじょう"],
@@ -11502,6 +11522,7 @@
   {
     "no": 669,
     "name": "フラベベ",
+    "form": "",
     "types": ["フェアリー"],
     "abilities": ["フラワーベール"],
     "hidden_abilities": ["きょうせい"],
@@ -11517,6 +11538,7 @@
   {
     "no": 670,
     "name": "フラエッテ",
+    "form": "",
     "types": ["フェアリー"],
     "abilities": ["フラワーベール"],
     "hidden_abilities": ["きょうせい"],
@@ -11532,6 +11554,7 @@
   {
     "no": 671,
     "name": "フラージェス",
+    "form": "",
     "types": ["フェアリー"],
     "abilities": ["フラワーベール"],
     "hidden_abilities": ["きょうせい"],
@@ -11547,6 +11570,7 @@
   {
     "no": 672,
     "name": "メェークル",
+    "form": "",
     "types": ["くさ"],
     "abilities": ["そうしょく"],
     "hidden_abilities": ["くさのけがわ"],
@@ -11562,6 +11586,7 @@
   {
     "no": 673,
     "name": "ゴーゴート",
+    "form": "",
     "types": ["くさ"],
     "abilities": ["そうしょく"],
     "hidden_abilities": ["くさのけがわ"],
@@ -11577,6 +11602,7 @@
   {
     "no": 674,
     "name": "ヤンチャム",
+    "form": "",
     "types": ["かくとう"],
     "abilities": ["てつのこぶし", "かたやぶり"],
     "hidden_abilities": ["きもったま"],
@@ -11592,6 +11618,7 @@
   {
     "no": 675,
     "name": "ゴロンダ",
+    "form": "",
     "types": ["かくとう", "あく"],
     "abilities": ["てつのこぶし", "かたやぶり"],
     "hidden_abilities": ["きもったま"],
@@ -11607,6 +11634,7 @@
   {
     "no": 676,
     "name": "トリミアン",
+    "form": "",
     "types": ["ノーマル"],
     "abilities": ["ファーコート"],
     "hidden_abilities": [],
@@ -11622,6 +11650,7 @@
   {
     "no": 677,
     "name": "ニャスパー",
+    "form": "",
     "types": ["エスパー"],
     "abilities": ["するどいめ", "すりぬけ"],
     "hidden_abilities": ["マイペース"],
@@ -11637,6 +11666,7 @@
   {
     "no": 678,
     "name": "ニャオニクス",
+    "form": "",
     "types": ["エスパー"],
     "abilities": ["するどいめ", "すりぬけ"],
     "hidden_abilities": ["いたずらごころ", "かちき"],
@@ -11652,6 +11682,7 @@
   {
     "no": 679,
     "name": "ヒトツキ",
+    "form": "",
     "types": ["はがね", "ゴースト"],
     "abilities": ["ノーガード"],
     "hidden_abilities": [],
@@ -11667,6 +11698,7 @@
   {
     "no": 680,
     "name": "ニダンギル",
+    "form": "",
     "types": ["はがね", "ゴースト"],
     "abilities": ["ノーガード"],
     "hidden_abilities": [],
@@ -11682,15 +11714,32 @@
   {
     "no": 681,
     "name": "ギルガルド",
+    "form": "シールドフォルム",
     "types": ["はがね", "ゴースト"],
     "abilities": ["バトルスイッチ"],
     "hidden_abilities": [],
     "status": {
       "h": 60,
       "a": 50,
-      "b": 150,
+      "b": 140,
       "c": 50,
-      "d": 150,
+      "d": 140,
+      "s": 60
+    }
+  },
+  {
+    "no": 681,
+    "name": "ギルガルド",
+    "form": "ブレードフォルム",
+    "types": ["はがね", "ゴースト"],
+    "abilities": ["バトルスイッチ"],
+    "hidden_abilities": [],
+    "status": {
+      "h": 60,
+      "a": 140,
+      "b": 50,
+      "c": 140,
+      "d": 50,
       "s": 60
     }
   },
