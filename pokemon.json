@@ -13023,9 +13023,10 @@
       "s": 30
     }
   },
-    {
+  {
     "no": 747,
     "name": "ヒドイデ",
+    "form": "",
     "types": ["どく", "みず"],
     "abilities": ["ひとでなし", "じゅうなん"],
     "hidden_abilities": ["さいせいりょく"],
@@ -13041,6 +13042,7 @@
   {
     "no": 748,
     "name": "ドヒドイデ",
+    "form": "",
     "types": ["どく", "みず"],
     "abilities": ["ひとでなし", "じゅうなん"],
     "hidden_abilities": ["さいせいりょく"],
@@ -13056,6 +13058,7 @@
   {
     "no": 749,
     "name": "ドロバンコ",
+    "form": "",
     "types": ["じめん"],
     "abilities": ["マイペース", "じきゅうりょく"],
     "hidden_abilities": ["せいしんりょく"],
@@ -13071,6 +13074,7 @@
   {
     "no": 750,
     "name": "バンバドロ",
+    "form": "",
     "types": ["じめん"],
     "abilities": ["マイペース", "じきゅうりょく"],
     "hidden_abilities": ["せいしんりょく"],
@@ -13086,6 +13090,7 @@
   {
     "no": 751,
     "name": "シズクモ",
+    "form": "",
     "types": ["みず", "むし"],
     "abilities": ["すいほう"],
     "hidden_abilities": ["ちょすい"],
@@ -13101,6 +13106,7 @@
   {
     "no": 752,
     "name": "オニシズクモ",
+    "form": "",
     "types": ["みず", "むし"],
     "abilities": ["すいほう"],
     "hidden_abilities": ["ちょすい"],
@@ -13116,6 +13122,7 @@
   {
     "no": 753,
     "name": "カリキリ",
+    "form": "",
     "types": ["くさ"],
     "abilities": ["リーフガード"],
     "hidden_abilities": ["あまのじゃく"],
@@ -13131,6 +13138,7 @@
   {
     "no": 754,
     "name": "ラランテス",
+    "form": "",
     "types": ["くさ"],
     "abilities": ["リーフガード"],
     "hidden_abilities": ["あまのじゃく"],
@@ -13146,6 +13154,7 @@
   {
     "no": 755,
     "name": "ネマシュ",
+    "form": "",
     "types": ["くさ", "フェアリー"],
     "abilities": ["はっこう", "ほうし"],
     "hidden_abilities": ["あめうけざら"],
@@ -13161,6 +13170,7 @@
   {
     "no": 756,
     "name": "マシェード",
+    "form": "",
     "types": ["くさ", "フェアリー"],
     "abilities": ["はっこう", "ほうし"],
     "hidden_abilities": ["あめうけざら"],
@@ -13176,6 +13186,7 @@
   {
     "no": 757,
     "name": "ヤトウモリ",
+    "form": "",
     "types": ["どく", "ほのお"],
     "abilities": ["ふしょく"],
     "hidden_abilities": ["どんかん"],
@@ -13191,6 +13202,7 @@
   {
     "no": 758,
     "name": "エンニュート",
+    "form": "",
     "types": ["どく", "ほのお"],
     "abilities": ["ふしょく"],
     "hidden_abilities": ["どんかん"],
@@ -13206,6 +13218,7 @@
   {
     "no": 759,
     "name": "ヌイコグマ",
+    "form": "",
     "types": ["ノーマル", "かくとう"],
     "abilities": ["もふもふ", "ぶきよう"],
     "hidden_abilities": ["メロメロボディ"],
@@ -13221,6 +13234,7 @@
   {
     "no": 760,
     "name": "キテルグマ",
+    "form": "",
     "types": ["ノーマル", "かくとう"],
     "abilities": ["もふもふ", "ぶきよう"],
     "hidden_abilities": ["きんちょうかん"],
@@ -13236,6 +13250,7 @@
   {
     "no": 761,
     "name": "アマカジ",
+    "form": "",
     "types": ["くさ"],
     "abilities": ["リーフガード", "どんかん"],
     "hidden_abilities": ["スイートベール"],
@@ -13251,6 +13266,7 @@
   {
     "no": 762,
     "name": "アママイコ",
+    "form": "",
     "types": ["くさ"],
     "abilities": ["リーフガード", "どんかん"],
     "hidden_abilities": ["スイートベール"],
@@ -13266,6 +13282,7 @@
   {
     "no": 763,
     "name": "アマージョ",
+    "form": "",
     "types": ["くさ"],
     "abilities": ["リーフガード", "じょおうのいげん"],
     "hidden_abilities": ["スイートベール"],
@@ -13281,6 +13298,7 @@
   {
     "no": 764,
     "name": "キュワワー",
+    "form": "",
     "types": ["フェアリー"],
     "abilities": ["フラワーベース", "ヒーリングシフト"],
     "hidden_abilities": ["しぜんかいふく"],
@@ -13296,6 +13314,7 @@
   {
     "no": 765,
     "name": "ヤレユータン",
+    "form": "",
     "types": ["ノーマル", "エスパー"],
     "abilities": ["せいしんりょく", "テレパシー"],
     "hidden_abilities": ["きょうせい"],
@@ -13311,6 +13330,7 @@
   {
     "no": 766,
     "name": "ナゲツケサル",
+    "form": "",
     "types": ["かくとう"],
     "abilities": ["レシーバー"],
     "hidden_abilities": ["まけんき"],
@@ -13326,6 +13346,7 @@
   {
     "no": 767,
     "name": "コソクムシ",
+    "form": "",
     "types": ["むし", "みず"],
     "abilities": ["にげごし"],
     "hidden_abilities": [],
@@ -13341,6 +13362,7 @@
   {
     "no": 768,
     "name": "グソクムシャ",
+    "form": "",
     "types": ["むし", "みず"],
     "abilities": ["ききかいひ"],
     "hidden_abilities": [],
@@ -13356,6 +13378,7 @@
   {
     "no": 769,
     "name": "スナバァ",
+    "form": "",
     "types": ["ゴースト", "じめん"],
     "abilities": ["みずがため"],
     "hidden_abilities": ["すながくれ"],
@@ -13371,6 +13394,7 @@
   {
     "no": 770,
     "name": "シロデスナ",
+    "form": "",
     "types": ["ゴースト", "じめん"],
     "abilities": ["みずがため"],
     "hidden_abilities": ["すながくれ"],
@@ -13386,6 +13410,7 @@
   {
     "no": 771,
     "name": "ナマコブシ",
+    "form": "",
     "types": ["みず"],
     "abilities": ["とびだすなかみ"],
     "hidden_abilities": ["てんねん"],
@@ -13401,6 +13426,7 @@
   {
     "no": 772,
     "name": "タイプ：ヌル",
+    "form": "",
     "types": ["ノーマル"],
     "abilities": ["カブトアーマー"],
     "hidden_abilities": [],
@@ -13416,6 +13442,7 @@
   {
     "no": 773,
     "name": "シルヴァディ",
+    "form": "",
     "types": ["ノーマル"],
     "abilities": ["ARシステム"],
     "hidden_abilities": [],
@@ -13431,6 +13458,7 @@
   {
     "no": 774,
     "name": "メテノ",
+    "form": "",
     "types": ["いわ", "ひこう"],
     "abilities": ["リミットシールド"],
     "hidden_abilities": [],
@@ -13446,6 +13474,7 @@
   {
     "no": 775,
     "name": "ネッコアラ",
+    "form": "",
     "types": ["ノーマル"],
     "abilities": ["ぜったいねむり"],
     "hidden_abilities": [],
@@ -13461,6 +13490,7 @@
   {
     "no": 776,
     "name": "バクガメス",
+    "form": "",
     "types": ["ほのお", "ドラゴン"],
     "abilities": ["シェルアーマー"],
     "hidden_abilities": [],
@@ -13476,6 +13506,7 @@
   {
     "no": 777,
     "name": "トゲデマル",
+    "form": "",
     "types": ["でんき", "はがね"],
     "abilities": ["てつのトゲ", "ひらいしん"],
     "hidden_abilities": ["がんじょう"],
@@ -13491,6 +13522,7 @@
   {
     "no": 778,
     "name": "ミミッキュ",
+    "form": "",
     "types": ["ゴースト", "フェアリー"],
     "abilities": ["ばけのかわ"],
     "hidden_abilities": [],
@@ -13506,6 +13538,7 @@
   {
     "no": 779,
     "name": "ハギギシリ",
+    "form": "",
     "types": ["みず", "エスパー"],
     "abilities": ["ビビットボディ", "がんじょうあご"],
     "hidden_abilities": ["ミラクルスキン"],
@@ -13521,6 +13554,7 @@
   {
     "no": 780,
     "name": "ジジーロン",
+    "form": "",
     "types": ["ノーマル", "ドラゴン"],
     "abilities": ["ぎゃくじょう", "そうしょく"],
     "hidden_abilities": ["ノーてんき"],
@@ -13536,6 +13570,7 @@
   {
     "no": 781,
     "name": "ダダリン",
+    "form": "",
     "types": ["ゴースト", "くさ"],
     "abilities": ["はがねつかい"],
     "hidden_abilities": [],
@@ -13551,6 +13586,7 @@
   {
     "no": 782,
     "name": "ジャラコ",
+    "form": "",
     "types": ["ドラゴン"],
     "abilities": ["ぼうだん", "ぼうおん"],
     "hidden_abilities": ["ぼうじん"],
@@ -13566,6 +13602,7 @@
   {
     "no": 783,
     "name": "ジャランゴ",
+    "form": "",
     "types": ["ドラゴン", "かくとう"],
     "abilities": ["ぼうだん", "ぼうおん"],
     "hidden_abilities": ["ぼうじん"],
@@ -13581,6 +13618,7 @@
   {
     "no": 784,
     "name": "ジャラランガ",
+    "form": "",
     "types": ["ドラゴン", "かくとう"],
     "abilities": ["ぼうだん", "ぼうおん"],
     "hidden_abilities": ["ぼうじん"],
@@ -13596,6 +13634,7 @@
   {
     "no": 785,
     "name": "カプ・コケコ",
+    "form": "",
     "types": ["でんき", "フェアリー"],
     "abilities": ["エレキメイカー"],
     "hidden_abilities": ["テレパシー"],
@@ -13611,6 +13650,7 @@
   {
     "no": 786,
     "name": "カプ・テテフ",
+    "form": "",
     "types": ["エスパー", "フェアリー"],
     "abilities": ["サイコメイカー"],
     "hidden_abilities": ["テレパシー"],
@@ -13626,6 +13666,7 @@
   {
     "no": 787,
     "name": "カプ・ブルル",
+    "form": "",
     "types": ["くさ", "フェアリー"],
     "abilities": ["グラスメイカー"],
     "hidden_abilities": ["テレパシー"],
@@ -13641,6 +13682,7 @@
   {
     "no": 788,
     "name": "カプ・レヒレ",
+    "form": "",
     "types": ["みず", "フェアリー"],
     "abilities": ["ミストメイカー"],
     "hidden_abilities": ["テレパシー"],
@@ -13656,6 +13698,7 @@
   {
     "no": 789,
     "name": "コスモッグ",
+    "form": "",
     "types": ["エスパー"],
     "abilities": ["てんねん"],
     "hidden_abilities": [],
@@ -13671,6 +13714,7 @@
   {
     "no": 790,
     "name": "コスモウム",
+    "form": "",
     "types": ["エスパー"],
     "abilities": ["がんじょう"],
     "hidden_abilities": [],
@@ -13686,6 +13730,7 @@
   {
     "no": 791,
     "name": "ソルガレオ",
+    "form": "",
     "types": ["エスパー", "はがね"],
     "abilities": ["メタルプロテクト"],
     "hidden_abilities": [],
@@ -13701,6 +13746,7 @@
   {
     "no": 792,
     "name": "ルナアーラ",
+    "form": "",
     "types": ["エスパー", "ゴースト"],
     "abilities": ["ファントムガード"],
     "hidden_abilities": [],
@@ -13716,6 +13762,7 @@
   {
     "no": 793,
     "name": "ウツロイド",
+    "form": "",
     "types": ["いわ", "どく"],
     "abilities": ["ビーストブースト"],
     "hidden_abilities": [],
@@ -13731,6 +13778,7 @@
   {
     "no": 794,
     "name": "マッシブーン",
+    "form": "",
     "types": ["むし", "かくとう"],
     "abilities": ["ビーストブースト"],
     "hidden_abilities": [],
@@ -13746,6 +13794,7 @@
   {
     "no": 795,
     "name": "フェローチェ",
+    "form": "",
     "types": ["むし", "かくとう"],
     "abilities": ["ビーストブースト"],
     "hidden_abilities": [],
@@ -13761,6 +13810,7 @@
   {
     "no": 796,
     "name": "デンジュモク",
+    "form": "",
     "types": ["でんき"],
     "abilities": ["ビーストブースト"],
     "hidden_abilities": [],
@@ -13776,6 +13826,7 @@
   {
     "no": 797,
     "name": "テッカグヤ",
+    "form": "",
     "types": ["はがね", "ひこう"],
     "abilities": ["ビーストブースト"],
     "hidden_abilities": [],
@@ -13791,6 +13842,7 @@
   {
     "no": 798,
     "name": "カミツルギ",
+    "form": "",
     "types": ["くさ", "はがね"],
     "abilities": ["ビーストブースト"],
     "hidden_abilities": [],
@@ -13806,6 +13858,7 @@
   {
     "no": 799,
     "name": "アクジキング",
+    "form": "",
     "types": ["あく", "ドラゴン"],
     "abilities": ["ビーストブースト"],
     "hidden_abilities": [],
@@ -13821,6 +13874,7 @@
   {
     "no": 800,
     "name": "ネクロズマ",
+    "form": "",
     "types": ["エスパー"],
     "abilities": ["プリズムアーマー"],
     "hidden_abilities": [],
@@ -13831,6 +13885,22 @@
       "c": 127,
       "d": 89,
       "s": 79
+    }
+  },
+  {
+    "no": 800,
+    "name": "ネクロズマ",
+    "form": "たそがれのたてがみ",
+    "types": ["エスパー", "はがね"],
+    "abilities": ["プリズムアーマー"],
+    "hidden_abilities": [],
+    "status": {
+      "h": 97,
+      "a": 157,
+      "b": 127,
+      "c": 113,
+      "d": 109,
+      "s": 77
     }
   },
   {
